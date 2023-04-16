@@ -1,5 +1,5 @@
 # ShowMoney
-Chrome/Brave browser extension. Show money in team chat on the play-cs.com (CS 1.6 in browser).
+Chrome/Brave browser extension. Show money in team chat on the play-cs.com (CS 1.6 in browser) by pressing one L key.
 
 ![ShowMoney](https://user-images.githubusercontent.com/53916002/232310285-5ced962b-8ecc-44a9-ad43-fecf6c9df61c.png)
 
