@@ -6,7 +6,8 @@ Chrome/Brave browser extension. Show money in team chat on the play-cs.com (CS 1
 ## How to install an extension?
 1) Download ShowMoney.zip file from https://github.com/mrquaketotheworld/ShowMoney/releases.
 2) Go to chrome://extensions, turn on "Developer mode" and drag'n'drop zip to your browser as shown in the gif.
-![ExtensionInstall](https://user-images.githubusercontent.com/53916002/232311733-63a142b6-f050-4041-8b12-c5d873bf0e89.gif)
+![ExtensionInstall](https://user-images.githubusercontent.com/53916002/232323644-2c7d3728-6df1-4bc5-bec9-0c19799adab8.gif)
+
 
 ## How to use it?
 Press L in game.
